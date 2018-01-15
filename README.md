@@ -6,4 +6,5 @@ The train data should be a numpy array of the form (M,N,D) where
 2. N - length of data sequences.
 3. D - Dimension of data sequences (number of features).
 
-The algorithm was tested on a synthetic vehicle encounter dataset. Clustering vehicle encounter data into different kinds of encounters.
+The algorithm was tested on a synthetic vehicle encounter dataset. Clustering vehicle encounter data into different kinds of encounters - 
+![alt text](https://github.com/aditya1709/DTW_kmedoids/blob/master/Confusion_matrix_c.png)
